@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.sourcelink.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\bin\Debug\net8.0\s3ej1.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\bin\Debug\net8.0\s3ej1.deps.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\bin\Debug\net8.0\s3ej1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\bin\Debug\net8.0\s3ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\bin\Debug\net8.0\s3ej1.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\refint\s3ej1.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\s3ej1.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej1\obj\Debug\net8.0\ref\s3ej1.dll

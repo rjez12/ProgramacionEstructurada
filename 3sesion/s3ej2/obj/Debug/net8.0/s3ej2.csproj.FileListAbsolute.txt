@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\bin\Debug\net8.0\s3ej2.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\bin\Debug\net8.0\s3ej2.deps.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\bin\Debug\net8.0\s3ej2.runtimeconfig.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\bin\Debug\net8.0\s3ej2.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\bin\Debug\net8.0\s3ej2.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.sourcelink.json
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\refint\s3ej2.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\s3ej2.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\3sesion\s3ej2\obj\Debug\net8.0\ref\s3ej2.dll
