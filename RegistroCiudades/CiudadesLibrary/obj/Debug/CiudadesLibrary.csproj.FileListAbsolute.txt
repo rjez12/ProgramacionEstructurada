@@ -1,0 +1,6 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.pdb

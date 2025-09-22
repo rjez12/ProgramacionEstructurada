@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\bin\Debug\CiudadesApa.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\bin\Debug\CiudadesApa.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\bin\Debug\CiudadesApa.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\bin\Debug\CiudadesLibrary.dll
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\bin\Debug\CiudadesLibrary.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.Form1.resources
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\Ciudades.6FEA3B63.Up2Date
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\RegistroCiudades\CiudadesApa\obj\Debug\CiudadesApa.exe.config
