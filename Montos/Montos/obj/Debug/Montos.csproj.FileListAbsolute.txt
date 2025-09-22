@@ -1,0 +1,11 @@
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.Form1.resources
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\bin\Debug\Montos.exe.config
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\bin\Debug\Montos.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\bin\Debug\Montos.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.exe
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.pdb
+C:\Users\rodri\OneDrive\Escritorio\ProgramacionEstructurada\Montos\Montos\obj\Debug\Montos.exe.config
